@@ -17,3 +17,9 @@ A Roblox obstacle course (obby) with a few trivia quiz at the end and a self mad
 - Latest version of Roblox Studio
 
 ### Download the latest release and open the .rbxl file in Roblox Studio
+
+## 3d View
+
+<img width="1048" height="704" alt="IMG_3714" src="https://github.com/user-attachments/assets/a8c14f6c-d605-45c5-8493-061fb03c1205" />
+
+
