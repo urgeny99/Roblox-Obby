@@ -8,7 +8,8 @@ A Roblox obstacle course (obby) with a few trivia quiz at the end and a self mad
 - Checkpoint system with visual + sound feedback on progress
 - Trivia doors — answer correctly to get to the next question
 - my self made shop gui and some powerups like speed boost, fly hacks and stage skip (pls buy it)
-
+## How to try it out and play
+- Open this link on roblox https://www.roblox.com/games/71943177214042/Rainbow-obby
 ## How to check code and edit
 
 ### Requirements 
